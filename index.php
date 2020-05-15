@@ -1,12 +1,40 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="css/style.css" />
-    <title>GroomRoom</title>
-</head>
-<body>
-    
-</body>
-</html>
+<?php
+
+    require_once('header.php');
+?>
+    <main>
+    <div class="general">
+
+        <div class="information">
+
+            <h1>Groom Room</h1>
+
+            <p>
+                Наша компания представляет собой, уход за вашими любимыми питомцами, мы можем позаботится о них
+                тогда предлагаем вам воспользоваться услугами наших специалистов по уходу за домашними животными. Которым 
+                вы можете доверить уход за вашим любимым питомцем и не сомневаться, 
+                что животное будет во — время покормлено, 
+                тщательно ухожено, выгуляно и не затоскует в ваше отсутствие. <br>
+
+                Наши специалисты имеют соответствующее образование/опыт общения с животными, при необходимости владеют методиками и приёмами дрессуры.
+<br>
+                Именно вы можете оставить нам свою заявку, для ухода за вашим любимым питомцом.
+            </p>
+        </div>
+<div class="info">
+    <img src="img/info.png" alt="info">
+</div>
+</div>
+
+<div class="information">
+<h1>Наши заявки</h1>
+    <div id="requestgrid">
+
+
+
+</main>
+
+<?php
+
+    require_once('footer.php');
+?>
