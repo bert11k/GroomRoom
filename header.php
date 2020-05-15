@@ -12,7 +12,7 @@
 <div><img src="img/logo.png" alt="logo"></div>
 <div><h1>GroomRoom</h1>
     <nav>
-    <div><a href="/">Главная</a></div>
+    <div><a href="index.php">Главная</a></div>
     <div><a href="add.php">Добавить заявку</a></div>
     <div><a href="/galery.php">Просмотр заявок</a></div>
     <div class="searcha"> <a href="#">Поиск фотографий</a></div>
